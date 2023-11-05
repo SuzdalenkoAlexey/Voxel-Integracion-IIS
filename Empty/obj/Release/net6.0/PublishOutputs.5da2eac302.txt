@@ -1,0 +1,7 @@
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\Empty.exe
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\Empty.dll
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\Empty.deps.json
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\Empty.runtimeconfig.json
+C:\.NET\Empty\Empty\obj\Release\net6.0\PubTmp\Out\Empty.pdb
