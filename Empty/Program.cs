@@ -36,5 +36,5 @@ class XmlFile
 
 class Security
 {
-    public static String pass = "asdf.a.6ae46a.ty.65ee5.j.srthse5ywe5yerhsrgsadr%%sdfgsdfgdsfysdtys";
+    public static String pass = "";
 }
