@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\Empty\\Empty\\Empty.csproj",
+      "projectUniqueName": "D:\\.NET\\Voxel Integracion IIS\\Empty\\Empty.csproj",
       "projectName": "Empty",
-      "projectPath": "D:\\.NET\\Empty\\Empty\\Empty.csproj",
+      "projectPath": "D:\\.NET\\Voxel Integracion IIS\\Empty\\Empty.csproj",
       "packagesPath": "C:\\Users\\alexei\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\Empty\\Empty\\obj\\",
+      "outputPath": "D:\\.NET\\Voxel Integracion IIS\\Empty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexei\\AppData\\Roaming\\NuGet\\NuGet.Config",

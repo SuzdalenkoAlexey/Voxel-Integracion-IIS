@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2GOfK9f8ov43peWo/2jvI07WkrBFPpwqj8x/HbhEjuo3YcuLMZshh1ZjbLHLSkaRBGkyGPaoRnlBAcaTEKKoBg==",
+  "dgSpecHash": "J4BqWy5KgBd61zV3AXYS1nOxSv6GbXvlbDbcRj7BgfEySMEkS4Ecy1bvW5Jpm/FvvDtmgbOHJrwCwr4bXRuqew==",
   "success": true,
-  "projectFilePath": "D:\\.NET\\Empty\\Empty\\Empty.csproj",
+  "projectFilePath": "D:\\.NET\\Voxel Integracion IIS\\Empty\\Empty.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

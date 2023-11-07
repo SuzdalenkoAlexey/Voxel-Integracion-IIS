@@ -23,3 +23,28 @@ C:\.NET\Empty\Empty\obj\Release\net6.0\refint\Empty.dll
 C:\.NET\Empty\Empty\obj\Release\net6.0\Empty.pdb
 C:\.NET\Empty\Empty\obj\Release\net6.0\Empty.genruntimeconfig.cache
 C:\.NET\Empty\Empty\obj\Release\net6.0\ref\Empty.dll
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\appsettings.Development.json
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\appsettings.json
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\Empty.exe
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\Empty.deps.json
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\Empty.runtimeconfig.json
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\Empty.dll
+D:\.NET\Voxel Integracion IIS\Empty\bin\Release\net6.0\Empty.pdb
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.AssemblyInfoInputs.cache
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.AssemblyInfo.cs
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.csproj.CoreCompileInputs.cache
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets\msbuild.Empty.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets\msbuild.build.Empty.props
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Empty.props
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Empty.props
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets.pack.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets.build.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\staticwebassets.development.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\scopedcss\bundle\Empty.styles.css
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.dll
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\refint\Empty.dll
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.pdb
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\Empty.genruntimeconfig.cache
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\ref\Empty.dll

@@ -1,0 +1,7 @@
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\Empty.exe
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\Empty.dll
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\Empty.deps.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\Empty.runtimeconfig.json
+D:\.NET\Voxel Integracion IIS\Empty\obj\Release\net6.0\PubTmp\Out\Empty.pdb

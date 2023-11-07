@@ -1,5 +1,13 @@
 using System;
 
+/*
+ * muy importante:
+ *  Grupos de aplicaciones
+ *   Applicacion
+ *    Configuracion Avanzada
+ *     Cargar perfil de usuario -> false
+ */
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
